@@ -1,5 +1,14 @@
-# 💫 About Me:
-.Net Developer
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm from Biratnagar, Nepal<br><br>- 🔭 I’m working as .Net Developer<br>- 📚 I'm currently learning Next Js <br>- 📫 How to reach me **yosulalala@gmail.com,yojana.subedi0902@gmail.com**</p>
+
+###
 
 
 ## 🌐 Socials:
